@@ -1,0 +1,223 @@
+#EXTM3U
+
+#   =========================================
+#          BANGLA ENTERTAINMENT & DRAMA
+#   =========================================
+#EXTINF:-1 tvg-name="Channel i HD (Drama)" group-title="Bangla Entertainment & Drama",Channel i HD
+http://103.175.73.12:8080/live/362/362_0.m3u8
+#EXTINF:-1 tvg-name="NTV HD (Serials & Drama)" group-title="Bangla Entertainment & Drama",NTV HD
+http://103.175.73.12:8080/live/361/361_0.m3u8
+#EXTINF:-1 tvg-name="RTV HD (Drama/Movies)" group-title="Bangla Entertainment & Drama",RTV HD
+http://103.175.73.12:8080/live/360/360_0.m3u8
+#EXTINF:-1 tvg-name="Deepto TV (Mega Serials)" group-title="Bangla Entertainment & Drama",Deepto TV
+http://103.175.73.12:8080/live/352/352_0.m3u8
+#EXTINF:-1 tvg-name="ATN Bangla (Classic Drama)" group-title="Bangla Entertainment & Drama",ATN Bangla
+http://103.175.73.12:8080/live/364/364_0.m3u8
+#EXTINF:-1 tvg-name="Banglavision (Drama)" group-title="Bangla Entertainment & Drama",Banglavision
+http://103.175.73.12:8080/live/363/363_0.m3u8
+#EXTINF:-1 tvg-name="Gazi TV / GTV (Drama/Sports)" group-title="Bangla Entertainment & Drama",GTV HD
+http://103.175.73.12:8080/live/359/359_0.m3u8
+#EXTINF:-1 tvg-name="Duronto TV (Kids Drama/Cartoons)" group-title="Bangla Entertainment & Drama",Duronto TV
+http://103.175.73.12:8080/live/357/357_0.m3u8
+
+#   =========================================
+#             PAKISTAN (FREE TO AIR)
+#   =========================================
+#EXTINF:-1 tvg-name="Geo News HD" group-title="Pakistan (Free to Air)",Geo News HD
+https://geopolive.akamaized.net/hls/live/2042129/GeoNews/master.m3u8
+#EXTINF:-1 tvg-name="ARY News HD" group-title="Pakistan (Free to Air)",ARY News HD
+https://arynewshd.akamaized.net/hls/live/2014496/arynews/master.m3u8
+#EXTINF:-1 tvg-name="Dawn News" group-title="Pakistan (Free to Air)",Dawn News
+https://dawnnews.akamaized.net/hls/live/2023902/dawnnews/master.m3u8
+#EXTINF:-1 tvg-name="Hum News" group-title="Pakistan (Free to Air)",Hum News
+https://humnews.akamaized.net/hls/live/2023121/humnews/master.m3u8
+#EXTINF:-1 tvg-name="Express News" group-title="Pakistan (Free to Air)",Express News
+https://expressnews.akamaized.net/hls/live/2023122/express/master.m3u8
+#EXTINF:-1 tvg-name="PTV Home (Dramas)" group-title="Pakistan (Free to Air)",PTV Home
+https://ptvhome.akamaized.net/hls/live/2028123/ptvhome/master.m3u8
+#EXTINF:-1 tvg-name="Hum TV (Dramas)" group-title="Pakistan (Free to Air)",Hum TV
+https://humtv.akamaized.net/hls/live/2023120/humtv/master.m3u8
+#EXTINF:-1 tvg-name="Express Entertainment" group-title="Pakistan (Free to Air)",Express Entertainment
+https://expressent.akamaized.net/hls/live/2023123/expent/master.m3u8
+#EXTINF:-1 tvg-name="TV One Pakistan (Dramas)" group-title="Pakistan (Free to Air)",TV One
+https://tvone.akamaized.net/hls/live/2025114/tvone/master.m3u8
+#EXTINF:-1 tvg-name="A-Plus TV (Dramas)" group-title="Pakistan (Free to Air)",A-Plus TV
+https://aplus.akamaized.net/hls/live/2026115/aplus/master.m3u8
+#EXTINF:-1 tvg-name="Play Entertainment" group-title="Pakistan (Free to Air)",Play Entertainment
+https://playent.akamaized.net/hls/live/2027116/play/master.m3u8
+#EXTINF:-1 tvg-name="Aur Life TV (Entertainment)" group-title="Pakistan (Free to Air)",Aur Life
+https://aur-life.akamaized.net/hls/live/2029118/aur/master.m3u8
+#EXTINF:-1 tvg-name="Madani Channel Urdu" group-title="Pakistan (Free to Air)",Madani Channel Urdu
+https://madani.akamaized.net/hls/live/2034112/madaniurdu/master.m3u8
+#EXTINF:-1 tvg-name="ARY QTV" group-title="Pakistan (Free to Air)",ARY QTV
+https://aryqtv.akamaized.net/hls/live/2014497/aryqtv/master.m3u8
+
+#   =========================================
+#          INDIAN SERIALS & DRAMA (FREE)
+#   =========================================
+#EXTINF:-1 tvg-name="Dangal TV (Serials)" group-title="Indian Serials & Drama (Free)",Dangal TV
+https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="Dangal 2 (Classic Serials)" group-title="Indian Serials & Drama (Free)",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="Sun Neo HD (Serials)" group-title="Indian Serials & Drama (Free)",Sun Neo HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01314-sunntn-sunneo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Umang (Drama)" group-title="Indian Serials & Drama (Free)",Shemaroo Umang
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemarooumang-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Ishara TV (Hindi Serial)" group-title="Indian Serials & Drama (Free)",Ishara TV
+https://inm-isharatv-oneplay.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Big Magic (Comedy/Drama)" group-title="Indian Serials & Drama (Free)",Big Magic
+http://103.175.73.12:8080/live/13/13_0.m3u8
+#EXTINF:-1 tvg-name="Zee Anmol TV (Serials)" group-title="Indian Serials & Drama (Free)",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 tvg-name="DD National HD (Classic Drama)" group-title="Indian Serials & Drama (Free)",DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
+#   =========================================
+#             INDIAN MOVIES (FREE)
+#   =========================================
+#EXTINF:-1 tvg-name="Goldmines TV HD" group-title="Indian Movies (Free)",Goldmines TV HD
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-name="Goldmines Movies HD" group-title="Indian Movies (Free)",Goldmines Movies HD
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-name="B4U Movies India" group-title="Indian Movies (Free)",B4U Movies India
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="B4U Kadak" group-title="Indian Movies (Free)",B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-name="Zing TV (Movies/Music)" group-title="Indian Movies (Free)",Zing TV
+https://dwby15d04agvq.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Movie Plus" group-title="Indian Movies (Free)",Shemaroo Movie Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Moviez OK Free" group-title="Indian Movies (Free)",Moviez OK Free
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Indian Movies (Free)",Goldmines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Indian Movies (Free)",Goldmines Movies 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-name="Zee Action" group-title="Indian Movies (Free)",Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
+
+#   =========================================
+#      DOCUMENTARY & INFOTAINMENT CHANNELS
+#   =========================================
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Documentary",Discovery
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="Documentary", National Geography HD
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-name="REAL WILD" group-title="Documentary",REAL WILD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment",history
+https://live.thebosstv.com:30443/dwlive/HISTORY/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel XP English" group-title="Infotainment",Travel XP English
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sochi 24 HD" group-title="Infotainment",Sochi 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+
+#   =========================================
+#            BANGLA MUSIC & NEWS
+#   =========================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Bangla Music",SANGEET BANGLA
+http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63393
+#EXTINF:-1 tvg-name="Dhoom Music" group-title="Bangla Music",Dhoom Music
+http://103.175.73.12:8080/live/378/378_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Bangla News",Bangla Jago TV
+http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Bangla News",R Plus Gold
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Bangla News",Republic Bangla
+https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Bangla News",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+#   =========================================
+#             ENGLISH & INDIAN NEWS
+#   =========================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Indian News",Aaj Tak HD
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Indian News",Aap Ki Adalat
+https://amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv/playlist/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Indian News",News24
+https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Indian News",Republic TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Indian News",ZEE BUSINESS
+https://dwby15d04agvq.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-name="CNN (US)" group-title="International News",CNN (US)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="DW English" group-title="International News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
+#EXTINF:-1 tvg-name="DW NEWS" group-title="International News",DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="TRT WORLD" group-title="International News",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#   =========================================
+#                KIDS & CARTOONS
+#   =========================================
+#EXTINF:-1 tvg-name="Gopal Bhar TV" group-title="Kids",Gopal Bhar TV
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Tom & Jerry TV" group-title="Kids",Tom & Jerry TV
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Doraemon TV" group-title="Kids",Doraemon TV
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Motu Patlu" group-title="Kids",Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Mr Bean Animated" group-title="Kids",Mr Bean Animated
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#   =========================================
+#            HINDI & INTERNATIONAL MUSIC
+#   =========================================
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Music",Zoom
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo" group-title="Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-name="9XM" group-title="Music",9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:-1 tvg-name="E24" group-title="Music",E24
+http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 tvg-name="Music India" group-title="Music",Music India
+http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 tvg-name="Music Mastii" group-title="Music",Music Mastii
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+
+#   =========================================
+#              SPORTS & CHANNELS MIX
+#   =========================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Sports",GOAL TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Entertainment",DD Bharati
+https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
+#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="English Movies",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="Greenland 2: Migration (2026) (Hindi)" group-title="VOD Movies",Greenland 2: Migration (2026) (Hindi)
+http://premimum.online/movie/jen12345/jen54321/717746.mp4
+
+#   =========================================
+#               AKASH EXCLUSIVE / OTHER
+#   =========================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Akash Premium",Joy HD
+https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Akash Premium",Funny Junior HD
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Akash Premium",Sports Range HD
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Akash Premium",Fighters HD
+https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Akash Premium",Nikki HD
+https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Akash Premium",Crazy Ex HD
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Akash Premium",Delicious HD
+https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+
+#   =========================================
+#                    RADIO
+#   =========================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Radio",Radio Bangla Net
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Radio",BBC Bangla
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Radio",Spice FM
+https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Radio",Radio Mirchi
+https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444
